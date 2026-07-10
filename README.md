@@ -5,7 +5,15 @@
 The MovieLens Analytics Dashboard is an interactive business intelligence application built with **Python**, **Streamlit**, **Pandas**, and **Plotly**.
 
 The dashboard analyzes the MovieLens Latest Small dataset to provide insights into movie ratings, genre popularity, user activity, and movie release trends.
+# 🎬 MovieLens Analytics Dashboard
 
+## 🚀 Live Demo
+
+https://lnlngqj6qzfrcyybazgea7.streamlit.app/
+
+## 📂 GitHub Repository
+
+https://github.com/confidencekwao/Movielens-Analytics-
 ---
 
 ## 🎯 Project Objectives
