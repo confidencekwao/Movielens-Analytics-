@@ -14,8 +14,6 @@ https://lnlngqj6qzfrcyybazgea7.streamlit.app/
 ## 📂 GitHub Repository
 
 https://github.com/confidencekwao/Movielens-Analytics-
----
-
 ## 🎯 Project Objectives
 
 The goal of this project is to:
